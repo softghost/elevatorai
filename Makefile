@@ -1,5 +1,5 @@
 CC           = gcc
-CFLAGS       = -Wall -Wextra -pedantic
+CFLAGS       = -Wall -Wextra
 RELEASEFLAGS = -O2 -NDEBUG
 DEBUGFLAGS   = -O0 -g3
 PROFILEFLAGS = -pg
