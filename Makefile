@@ -1,6 +1,6 @@
 CC           = gcc
 CFLAGS       = -Wall -Wextra
-RELEASEFLAGS = -O2 -NDEBUG
+RELEASEFLAGS = -O2 -DNDEBUG
 DEBUGFLAGS   = -O0 -g3
 PROFILEFLAGS = -pg
 
